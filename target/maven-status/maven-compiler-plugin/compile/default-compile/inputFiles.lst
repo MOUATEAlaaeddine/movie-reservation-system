@@ -1,4 +1,17 @@
 /Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/MovieReservationSystemApplication.java
 /Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/config/SecurityConfig.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/config/SwaggerConfig.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/controller/AIController.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/controller/AuthController.java
 /Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/controller/TestController.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/dto/ApiResponse.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/dto/AuthResponse.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/dto/PromoteRequest.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/dto/RegisterRequest.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/dto/UserDTO.java
 /Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/entity/User.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/exception/ErrorResponse.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/exception/GlobalExceptionHandler.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/repository/UserRepository.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/service/OpenAIService.java
+/Users/alaamouate/Downloads/movie-reservation-system/src/main/java/com/cinema/moviereservation/service/UserService.java

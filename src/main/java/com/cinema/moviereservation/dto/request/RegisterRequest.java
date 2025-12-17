@@ -1,4 +1,4 @@
-package com.cinema.moviereservation.dto;
+package com.cinema.moviereservation.dto.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
